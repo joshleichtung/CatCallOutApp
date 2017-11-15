@@ -26,7 +26,7 @@ CatCallOut is built on a decoupled architecture featuring:
 ## Flow
 
 <p align="center">
-  <img src="https://github.com/ginnyfahs/CatCallOutApp/blob/development/cco-gif-version.gif" width="360" height="640 />
+  <img src="https://github.com/ginnyfahs/CatCallOutApp/blob/development/cco-gif-version.gif" width="360" height="640" />
 </p>
 
 * See street harassment geolocated on the map
